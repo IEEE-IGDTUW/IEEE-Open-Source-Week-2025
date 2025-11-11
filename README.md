@@ -46,9 +46,9 @@
 
 ### 🗂️ Project List
 
-| S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                | Mentor         |
+| S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                
 |------|------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------|
-| 1    | ABC                                       | abc                    | [GitHub Link 1]()  | [xyz](https://github.com2)      | [xyz](https://github.com) , [xyz](https://github.com)        |
+| 1    | Venus Chaudhary                                       | HTML,CSS,JS                    | [GitHub Link 1](https://github.com/VenusCh001/thementorshipclub)  | [Venus Chaudhary](https://github.com/VenusCh001)      
 
 ---
 
