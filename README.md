@@ -53,7 +53,7 @@
 | 3    | Sehat Sahayak        | Frontend: HTML, CSS, JavaScript, React.js • TensorFlow: Image classification • Machine Learning: CNN, KNN, Random Forest • APIs: Gemini API, YouTube API • Flask: ML model implementation • Streamlit: AI chatbot interface | [Sehat Sahayak Repository](https://github.com/sripriyaagarwal16/Sehat-Sahayak)     | [Sripriya Agarwal](https://github.com/sripriyaagarwal16) |
 | 4    | FountainCMS          | TypeScript, React, Node.js                                                                                                                                                                                                          | [FountainCMS Repository](https://github.com/building-for-fun/fountainCms)          | [building-for-fun](https://github.com/building-for-fun) |
 | 5    | CafeFusion           | HTML, CSS, JS                                                                                                                                                                                                                       | [CafeFusion Repository](https://github.com/Pragati1466/CafeFusion)                 | [Pragati](https://github.com/Pragati1466) |
-
+| 6    | Shashkth Stree       | HTML, CSS, JS                                                                                                                                                                                                                       | [Shashkth Stree Repository](https://github.com/ssyy21/Shashkth_Stree)              | [Sneha Yadav](https://github.com/ssyy21) |
 
 ### 🌟 Why Participate?
 
