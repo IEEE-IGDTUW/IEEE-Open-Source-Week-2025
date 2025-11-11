@@ -46,10 +46,10 @@
 
 ### 🗂️ Project List
 
-| S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                
+| S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                | Mentor         |
 |------|------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------|
-| 1    | Venus Chaudhary                                       | HTML,CSS,JS                    | [GitHub Link 1](https://github.com/VenusCh001/thementorshipclub)  | [Venus Chaudhary](https://github.com/VenusCh001)      
-
+| 1    | TrailGo                                        | Web Development (WebD), UI/UX                    | [GitHub Link 1](https://github.com/subhadeeproy3902/trailgo)  | [Subhadeep Roy](https://github.com/subhadeeproy3902)      | [Aachal Pardeshi](https://github.com/aachal28) , [Adithya S Nair](https://github.com/aadhi-i/)        |
+| 2    | PyVerse                                        | Web Development (WebD), AI/ML, Blockchain/Web3   | [GitHub Link 2](https://github.com/UTSAVS26/PyVerse)          | [Utsav Singhal](https://github.com/UTSAVS26)              | [Tushar Gupta](https://github.com/tushargupta1504) , [Vijay Kv](https://github.com/Vijaykv5)        | 
 ---
 
 ### 🌟 Why Participate?
