@@ -46,11 +46,10 @@
 
 ### 🗂️ Project List
 
-| S.No | Project   | Domain                                     | Project GitHub Link                                        | Maintainer                                           | Mentor                                                                                   |
-|------|------------|---------------------------------------------|------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1    | TrailGo    | Web Development (WebD), UI/UX              | [TrailGo Repository](https://github.com/subhadeeproy3902/trailgo) | [Subhadeep Roy](https://github.com/subhadeeproy3902) | [Aachal Pardeshi](https://github.com/aachal28), [Adithya S Nair](https://github.com/aadhi-i/) |
-| 2    | PyVerse    | Web Development (WebD), AI/ML, Blockchain/Web3 | [PyVerse Repository](https://github.com/UTSAVS26/PyVerse)  | [Utsav Singhal](https://github.com/UTSAVS26)         | [Tushar Gupta](https://github.com/tushargupta1504), [Vijay Kv](https://github.com/Vijaykv5)   |
-
+| S.No | Project             | Domain / Tech Stack            | Project GitHub Link                                                                 | Maintainer                                        |
+|------|----------------------|--------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1    | The Mentorship Club  | HTML, CSS, JS                  | [The Mentorship Club Repository](https://github.com/VenusCh001/thementorshipclub)    | [Venus Chaudhary](https://github.com/VenusCh001) |
+| 2    | Ardh Naari Shakti    | React.js, MongoDB, Dialogflow  | [Ardh Naari Shakti Repository](https://github.com/sripriyaagarwal16/Ardh-Naari-Shakti) | [Sripriya Agarwal](https://github.com/sripriyaagarwal16) |
 
 ### 🌟 Why Participate?
 
