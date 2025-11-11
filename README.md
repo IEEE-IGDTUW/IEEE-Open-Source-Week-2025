@@ -46,10 +46,13 @@
 
 ### 🗂️ Project List
 
-| S.No | Project             | Domain / Tech Stack            | Project GitHub Link                                                                 | Maintainer                                        |
-|------|----------------------|--------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1    | The Mentorship Club  | HTML, CSS, JS                  | [The Mentorship Club Repository](https://github.com/VenusCh001/thementorshipclub)    | [Venus Chaudhary](https://github.com/VenusCh001) |
-| 2    | Ardh Naari Shakti    | React.js, MongoDB, Dialogflow  | [Ardh Naari Shakti Repository](https://github.com/sripriyaagarwal16/Ardh-Naari-Shakti) | [Sripriya Agarwal](https://github.com/sripriyaagarwal16) |
+| S.No | Project             | Domain / Tech Stack                                                                                                                                                                                                                   | Project GitHub Link                                                                | Maintainer                                        |
+|------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1    | The Mentorship Club  | HTML, CSS, JS                                                                                                                                                                                                                       | [The Mentorship Club Repository](https://github.com/VenusCh001/thementorshipclub)  | [Venus Chaudhary](https://github.com/VenusCh001) |
+| 2    | Ardh Naari Shakti    | React.js, MongoDB, Dialogflow                                                                                                                                                                                                       | [Ardh Naari Shakti Repository](https://github.com/sripriyaagarwal16/Ardh-Naari-Shakti) | [Sripriya Agarwal](https://github.com/sripriyaagarwal16) |
+| 3    | Sehat Sahayak        | Frontend: HTML, CSS, JavaScript, React.js • TensorFlow: Image classification • Machine Learning: CNN, KNN, Random Forest • APIs: Gemini API, YouTube API • Flask: ML model implementation • Streamlit: AI chatbot interface | [Sehat Sahayak Repository](https://github.com/sripriyaagarwal16/Sehat-Sahayak)     | [Sripriya Agarwal](https://github.com/sripriyaagarwal16) |
+| 4    | FountainCMS          | TypeScript, React, Node.js                                                                                                                                                                                                          | [FountainCMS Repository](https://github.com/building-for-fun/fountainCms)          | [building-for-fun](https://github.com/building-for-fun) |
+
 
 ### 🌟 Why Participate?
 
