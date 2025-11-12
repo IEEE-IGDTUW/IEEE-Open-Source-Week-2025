@@ -60,7 +60,7 @@
 | 10   | VigyBag              | Node.js, Python, React Native, React.js, JavaScript, Firebase, SQL                                                                                                                           | [VigyBag Repository](https://github.com/codervivek5/VigyBag)                       | [Vivek Kumar](https://github.com/codervivek5) |
 | 11   | Waste Segregation    | Python • AI/ML • TensorFlow • Keras • Machine Learning • CNN                                                                                                                                                                       | [Waste Segregation Repository](https://github.com/Tanyajain2006/Waste-Segregation) | [Tanya Jain](https://github.com/Tanyajain2006) |
 | 12   | UltimateHealth       | React Native, Expo                                                                                                                                                                                                                  | [UltimateHealth Repository](https://github.com/SB2318/UltimateHealth)              | [Susmita Bhattacharya](https://github.com/SB2318) |
-
+| 13   | GiftMyWay            | HTML, CSS, JS                                                                                                                                                                                                                       | [GiftMyWay Repository](https://github.com/LakshitaAgg15/GiftMyWay)                 | [Lakshita Aggarwal](https://github.com/LakshitaAgg15) |
 
 ### 🌟 Why Participate?
 
