@@ -55,6 +55,7 @@
 | 5    | CafeFusion           | HTML, CSS, JS                                                                                                                                                                                                                       | [CafeFusion Repository](https://github.com/Pragati1466/CafeFusion)                 | [Pragati](https://github.com/Pragati1466) |
 | 6    | Shashkth Stree       | HTML, CSS, JS                                                                                                                                                                                                                       | [Shashkth Stree Repository](https://github.com/ssyy21/Shashkth_Stree)              | [Sneha Yadav](https://github.com/ssyy21) |
 | 7    | Habit Tracker        | Frontend: React 18, TypeScript, Vite • Styling: Tailwind CSS • Backend: Supabase (PostgreSQL, Auth, Realtime) • Icons: Lucide React • Deployment: Netlify                                   | [Habit Tracker Repository](https://github.com/Charushi06/Habit-Tracker)            | [Charushi](https://github.com/Charushi06) |
+| 8    | VigyBag              | Node.js, Python, React Native, React.js, JavaScript, Firebase, SQL                                                                                                                           | [VigyBag Repository](https://github.com/codervivek5/VigyBag)                       | [Vivek Kumar](https://github.com/codervivek5) |
 
 ### 🌟 Why Participate?
 
